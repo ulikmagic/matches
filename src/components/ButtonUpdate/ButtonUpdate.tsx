@@ -1,6 +1,6 @@
 import type { FC } from 'react'
 
-import RefreshIcon from '../../assets/icons/refresh.svg?react'
+import RefreshIcon from '@/assets/icons/refresh.svg?react'
 import clsx from 'clsx'
 import { ButtonUpdateProps } from './types'
 

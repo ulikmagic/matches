@@ -1,4 +1,4 @@
-import ButtonUpdate from './components/ButtonUpdate/ButtonUpdate'
+import ButtonUpdate from '@/components/ButtonUpdate/ButtonUpdate'
 
 function App() {
 	return (
