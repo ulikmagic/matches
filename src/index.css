@@ -10,14 +10,20 @@
   --color-red-disabled: #701328;
   --color-orange: #eb6402;
   --color-grey: #b4b5b6;
+  --color-disabled: #787878;
   --color-label: #fafafa66;
   --color-white: #ffffff;
   --font-inter: "Inter", "sans-serif";
 }
-
 @layer base {
   body {
     color: var(--color-white);
     font-family: "Inter", sans-serif;
   }
+}
+@utility w-6.5 {
+  width: 26px;
+}
+@utility h-6.5 {
+  width: 26px;
 }
