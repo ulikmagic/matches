@@ -35,3 +35,6 @@
 @utility w-22 {
   width: 92px;
 }
+@utility min-h-card {
+  min-height: 87px;
+}
