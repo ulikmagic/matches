@@ -4,10 +4,12 @@
 @theme {
   --color-main-black: #06080c;
   --color-black-light: #0b0e12;
+  --color-black-hover: #0f1318;
   --color-green: #43ad28;
   --color-red: #eb0237;
   --color-red-pressed: #a01131;
   --color-red-disabled: #701328;
+  --color-black-border: #171d25;
   --color-orange: #eb6402;
   --color-grey: #b4b5b6;
   --color-disabled: #787878;

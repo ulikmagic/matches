@@ -1,8 +1,8 @@
 import type { FC } from 'react'
 
-import RefreshIcon from '@/assets/icons/refresh.svg?react'
 import clsx from 'clsx'
 import { ButtonUpdateProps } from './types'
+import { RefreshIcon } from '@/assets/icons'
 
 const ButtonUpdate: FC<ButtonUpdateProps> = ({
 	children,
