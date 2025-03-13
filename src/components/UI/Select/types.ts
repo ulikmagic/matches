@@ -1,8 +1,9 @@
-interface Option {
+export interface OptionType {
   value: string | number;
   label: string;
+  disabled?: boolean;
 }
 
 export interface SelectProps {
-  options: Option[];
+  options: OptionType[];
 }

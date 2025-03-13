@@ -1,4 +1,4 @@
 import RefreshIcon from './refresh.svg?react'
-import ArrowSelect from "./arrow-select.svg?react";
+import ArrowSelectIcon from "./arrow-select.svg?react";
 
-export { RefreshIcon, ArrowSelect }
+export { RefreshIcon, ArrowSelectIcon }
