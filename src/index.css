@@ -27,3 +27,6 @@
 @utility h-6.5 {
   width: 26px;
 }
+@utility w-22 {
+  width: 92px;
+}
