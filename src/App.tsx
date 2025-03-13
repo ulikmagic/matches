@@ -1,4 +1,4 @@
-import { Status } from '@/components/Status/Status'
+import { Status } from '@/components/UI/Status/Status'
 
 function App() {
 	return (
